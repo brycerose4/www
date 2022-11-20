@@ -85,7 +85,7 @@ header {
     margin: 200px 0;
 }
 .card-img, .mountains {
-    width: 100%;
+    width: 60%;
 }
 .card-img {
     border: 10px solid #000000;
@@ -108,7 +108,7 @@ header {
 #hero-box {
     grid-column: 1/4;
     grid-row: 1/3;
-    z-index: -1;
+    z-index: 1;
 }
 #hero-msg {
     grid-column: 2/3;
